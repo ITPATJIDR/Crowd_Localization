@@ -1,0 +1,7 @@
+train: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/train/images
+val: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/val/images
+test: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/test/images
+
+nc: 3
+name: ["visible", "partial-occlusion", "full-occlusion"]
+
