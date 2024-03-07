@@ -1,6 +1,9 @@
-train: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/train/images
-val: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/val/images
-test: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/test/images
+# train: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/train/images
+# val: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/val/images
+# test: /home/itpat/Code/COSI/Drone/Crowd_Localization/ProcessedData/JHU/test/images
+train: C:\Users\CoSI-Lenovite\Desktop\code\drone\Crowd_Localization\ProcessedData\JHU\train\images
+val: C:\Users\CoSI-Lenovite\Desktop\code\drone\Crowd_Localization\ProcessedData\JHU\val\images
+test: C:\Users\CoSI-Lenovite\Desktop\code\drone\Crowd_Localization\ProcessedData\JHU\test\images
 
 nc: 3
 name: ["visible", "partial-occlusion", "full-occlusion"]
