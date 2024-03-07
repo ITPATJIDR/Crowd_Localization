@@ -7,4 +7,3 @@ test: C:\Users\CoSI-Lenovite\Desktop\code\drone\Crowd_Localization\ProcessedData
 
 nc: 3
 name: ["visible", "partial-occlusion", "full-occlusion"]
-

@@ -1,3 +1,8 @@
 __pycache__
 ProcessedData
 yolov8x.pt
+
+data_pytorch
+dataTest_pytorch
+Head
+head.v1i.yolov8
